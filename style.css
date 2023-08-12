@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Agdasima&family=Bebas+Neue&family=Caprasimo&family=Oswald:wght@200&family=Passion+One&family=Sriracha&display=swap');
+
+
+:root{
+    --font1: Verdana, Geneva, Tahoma, sans-serif;
+    --font2:'Passion One', cursive;
+    --font3:'Sriracha', cursive;
+}
 body{
     height: 100vh;
     width: 100vw;
@@ -8,7 +16,20 @@ header{
     height: 40vh;
     width: 100vw;
     margin-top: 0%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.header-h1{
+color: white;
+font-family: var(--font2);
+font-size: 10vw ;
+margin-bottom: 1px;
+}
 
+.header-p{
+color: white;
 }
 
 .sess{
@@ -18,13 +39,14 @@ border: black 1px dashed;
 
 #sess-img1{
     background-image: url(imagens/blond2.webp);
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 #sess-img2{
-    background-image: url(imagens/background002.jpg);
+    background-image: url(imagens/blond-alternative.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
