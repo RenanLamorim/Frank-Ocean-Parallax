@@ -10,26 +10,34 @@ body{
     height: 100vh;
     width: 100vw;
     margin: 0%;
+    font-family: var(--font1);
 }
 header{
     background-color: black;
-    height: 40vh;
-    width: 100vw;
-    margin-top: 0%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+    min-height: 40vh;
+    min-width: 100vw;
+    margin: auto;
+
+   
 }
 .header-h1{
 color: white;
 font-family: var(--font2);
 font-size: 10vw ;
-margin-bottom: 1px;
+margin: auto;
+text-align: center;
+padding-top: 40px;
+font-variant: small-caps;
+
 }
 
 .header-p{
 color: white;
+font-size: 1em ;
+margin: auto;
+text-align: center;
+
+
 }
 
 .sess{
