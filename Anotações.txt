@@ -1,1 +1,3 @@
 font-variant:small-caps; (Deixar a primeira letra maiuscula e o resto menor)
+
+text-transform: uppercase; (Todas as letras maiusculas)

@@ -41,7 +41,7 @@ text-align: center;
 }
 
 .sess{
-height: 1000px;
+height: 140vh;
 border: black 1px dashed;
 }
 
@@ -51,6 +51,17 @@ border: black 1px dashed;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+
+#sess-img1 > p {
+    background-color: rgba(0, 0, 0, 0.73);
+    color: white;
+    font-family: var(--font3);
+    display: inline-block;
+    font-size: 3vw;
+    padding: 10px;
+    margin-left: 25px;
+    line-height: 2em;
 }
 
 #sess-img2{
@@ -66,4 +77,5 @@ border: black 1px dashed;
     font-size: 3vw;
     text-align: start;
     padding: 25px;
+    line-height: 2em;
 }
