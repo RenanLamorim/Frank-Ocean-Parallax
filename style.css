@@ -94,7 +94,7 @@ border: black 1px dashed;
 footer{
     min-height: 5vh;
     background-color: black;
-    margin: 0%;
+    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -102,6 +102,6 @@ footer{
 
 .p-footer{
 color: white;
-margin: 0%;
+padding-bottom: 0px;
 font-size: 0.8em;
 }
