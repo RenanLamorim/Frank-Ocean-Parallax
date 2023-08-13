@@ -1,2 +1,3 @@
 # Projeto-parallax
- Adaptação do projeto proposto no modulo 3 do curso de html e css do Gustavo Guanabara.
+ Adaptação do projeto cordel proposto no curso de html e css do Gustavo Guanabara 
+ que é basicamente um exercicio para aprender a usar o efeito parallax.
