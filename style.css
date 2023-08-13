@@ -64,6 +64,16 @@ border: black 1px dashed;
     margin-left: 25px;
     line-height: 2em;
 }
+#sess-img2 > p {
+    background-color: rgba(0, 0, 0, 0.73);
+    color: white;
+    font-family: var(--font3);
+    display: inline-block;
+    font-size: 3vw;
+    padding: 10px;
+    margin-left: 25px;
+    line-height: 2em;
+}
 
 #sess-img2{
     background-image: url(imagens/blond-alternative.webp);
