@@ -15,29 +15,25 @@ body{
 }
 header{
     background-color: black;
-    min-height: 40vh;
+    height: 40vh;
     min-width: 100vw;
-    margin: auto;
-
-   
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 .header-h1{
 color: white;
 font-family: var(--font2);
 font-size: 10vw ;
-margin: auto;
-text-align: center;
-padding-top: 40px;
 font-variant: small-caps;
-
+margin-top: 0%;
+margin-bottom: 0%;
 }
 
 .header-p{
 color: white;
 font-size: 1em ;
-margin: auto;
-text-align: center;
-
 
 }
 
@@ -113,5 +109,4 @@ footer{
 color: white;
 padding-bottom: 0px;
 font-size: 0.8em;
-
 }
