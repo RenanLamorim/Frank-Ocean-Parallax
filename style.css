@@ -94,14 +94,24 @@ border: black 1px dashed;
 footer{
     min-height: 5vh;
     background-color: black;
-    margin: auto;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+#p-sess3{
+  
+}
+
+#end-sess{
+    height: 75.2vw;
 }
 
 .p-footer{
 color: white;
 padding-bottom: 0px;
 font-size: 0.8em;
+
 }
