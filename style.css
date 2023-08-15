@@ -43,7 +43,7 @@ border: black 1px dashed;
 }
 
 #sess-img1{
-    background-image: url(imagens/blond2.webp);
+    background-image: url(imagens/Blond-official.jpeg);
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
@@ -72,11 +72,11 @@ border: black 1px dashed;
 }
 
 #sess-img2{
-    background-image: url(imagens/blond-alternative.webp);
+    background-image: url(imagens/Alternative-official.jpeg);
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-
 }
 
 .p-sess{
