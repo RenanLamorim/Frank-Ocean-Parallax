@@ -68,6 +68,7 @@ border: black 1px dashed;
     font-size: 3vw;
     padding: 10px;
     margin-left: 25px;
+    margin-right: 20;
     line-height: 2em;
 }
 
@@ -109,6 +110,18 @@ footer{
 color: white;
 padding-bottom: 0px;
 font-size: 0.8em;
+}
+
+#white-class{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#end-sess{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
 }
 
 @media screen and (max-width: 569px){
